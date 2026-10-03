@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+rapidfuzz
+polars
+matplotlib
+scikit_learn
+pyarrow
